@@ -16,4 +16,4 @@ This is a project that refactored existing code to improve web accessibility.  I
 
 5. Made appropriate changes (including comments) to the CSS worksheet, and consolidated classes without changing the look or functionality of the original application.
 
-![Webpage screen shot](./01-html-css-git-homework-demo-updated.png)
+![Screen Shot of Horiseon Page](./01-html-css-git-homework-demo-updated.png)
